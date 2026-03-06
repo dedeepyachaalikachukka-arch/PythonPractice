@@ -1,4 +1,6 @@
-# read excel data and then write it to another excel
+# it asks the user to enter the file name, the reads the number of sheets in that particular
+# file followed by printing the number of sheets, then asks the user about the no.of sheets 
+# to be copied and printed.
 
 import pandas as pd
 
