@@ -13,4 +13,4 @@ Unit tests are available in the 'tests; folder.
 
 To run test:
 
-python -m unittest tests/test_full_app.py
+python -m unittest Day_2/tests/test_full_app.py
