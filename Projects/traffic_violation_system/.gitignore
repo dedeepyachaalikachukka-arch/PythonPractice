@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.airflow/
+logs/
+*.db
+weights/
+data/evidence/*
+!.gitkeep
